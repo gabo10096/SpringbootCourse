@@ -1,6 +1,5 @@
 package mx.com.example.services.service;
 
-import mx.com.example.commons.to.UserTO;
 import mx.com.example.model.UserDO;
 import mx.com.example.services.BaseTest;
 import org.junit.Assert;
